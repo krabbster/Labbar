@@ -1,0 +1,40 @@
+C:\Users\sejaa\OneDrive\Skrivbord\inlämningar\programmering labb\dva222\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\sejaa\OneDrive\Skrivbord\inlämningar\programmering labb\dva222\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\sejaa\OneDrive\Skrivbord\inlämningar\programmering labb\dva222\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\sejaa\OneDrive\Skrivbord\inlämningar\programmering labb\dva222\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\sejaa\OneDrive\Skrivbord\inlämningar\programmering labb\dva222\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\sejaa\OneDrive\Skrivbord\inlämningar\programmering labb\dva222\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\sejaa\OneDrive\Skrivbord\inlämningar\programmering labb\dva222\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\sejaa\OneDrive\Skrivbord\inlämningar\programmering labb\dva222\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\sejaa\OneDrive\Skrivbord\inlämningar\programmering labb\dva222\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\sejaa\OneDrive\Skrivbord\inlämningar\programmering labb\dva222\Snake\Snake\obj\Debug\Snake.Game.resources
+C:\Users\Alan\Desktop\Skola\snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Alan\Desktop\Skola\snake\Snake\bin\Debug\Snake.exe
+C:\Users\Alan\Desktop\Skola\snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Alan\Desktop\Skola\snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\Skola\snake\Snake\obj\Debug\Snake.Game.resources
+C:\Users\Alan\Desktop\Skola\snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Alan\Desktop\Skola\snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Alan\Desktop\Skola\snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\Skola\snake\Snake\obj\Debug\Snake.exe
+C:\Users\Alan\Desktop\Skola\snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Alan\Desktop\Skola\snake - kopia\Snake\bin\Debug\Snake.exe.config
+C:\Users\Alan\Desktop\Skola\snake - kopia\Snake\bin\Debug\Snake.exe
+C:\Users\Alan\Desktop\Skola\snake - kopia\Snake\bin\Debug\Snake.pdb
+C:\Users\Alan\Desktop\Skola\snake - kopia\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\Skola\snake - kopia\Snake\obj\Debug\Snake.Game.resources
+C:\Users\Alan\Desktop\Skola\snake - kopia\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Alan\Desktop\Skola\snake - kopia\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Alan\Desktop\Skola\snake - kopia\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\Skola\snake - kopia\Snake\obj\Debug\Snake.exe
+C:\Users\Alan\Desktop\Skola\snake - kopia\Snake\obj\Debug\Snake.pdb
+C:\Users\Älan\Desktop\Skola\snake - kopia\Snake\bin\Debug\Snake.exe.config
+C:\Users\Älan\Desktop\Skola\snake - kopia\Snake\bin\Debug\Snake.exe
+C:\Users\Älan\Desktop\Skola\snake - kopia\Snake\bin\Debug\Snake.pdb
+C:\Users\Älan\Desktop\Skola\snake - kopia\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Älan\Desktop\Skola\snake - kopia\Snake\obj\Debug\Snake.Game.resources
+C:\Users\Älan\Desktop\Skola\snake - kopia\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Älan\Desktop\Skola\snake - kopia\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Älan\Desktop\Skola\snake - kopia\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Älan\Desktop\Skola\snake - kopia\Snake\obj\Debug\Snake.exe
+C:\Users\Älan\Desktop\Skola\snake - kopia\Snake\obj\Debug\Snake.pdb
